@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of nature](https://asiamountains.net/upload/slide/slide-1960x857-07.jpg)
